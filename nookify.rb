@@ -13,8 +13,9 @@
 #
 # - Unix environment (linux, BSD, OSX etc.)
 # - Ruby, rubygems and progressbar gem
-# - Imagemagick
-# - pdftk
+# - Imagemagick convert binary somewhere in your
+#   path
+# - pdftk binary somewhere in your path
 ####################################################
 
 require 'optparse'
